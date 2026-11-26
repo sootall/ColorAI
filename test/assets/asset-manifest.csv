@@ -1,0 +1,7 @@
+asset_id,type,filename_or_location,purpose,source,license_status,status,notes
+A001,文字,assets/references/clinical-content-notes.md,SBAR結構與教學提醒,小組自擬示範,自有文字,已建立,專業內容待教師審核
+A002,資料,data/mock_cases.json,模擬病例與必要項目,小組虛構資料,自有資料,已建立,不可用於真實臨床
+A003,圖片,assets/images/,未來首頁示意插圖,尚未選定,待確認,待蒐集,不得直接下載不明授權圖檔
+A004,音訊,assets/audio/,未來語音示範,不列入MVP,不適用,不需準備,不應自動加入功能
+A005,影片,assets/video/,未來示範影片,不列入MVP,不適用,不需準備,不應自動加入功能
+A006,參考資料,assets/references/,專業資料及競品比較引用,待學生自行查證,待確認,待補充,標明來源網址與取得日期
